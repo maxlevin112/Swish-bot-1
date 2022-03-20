@@ -1,6 +1,6 @@
 {
-    "token": "OTQ5OTY1MTIxNzQ3MzA4NTg0.YiSB9g.cP7YooQR_5r5BfFWzhB71OVX5u8",
-    "mongoUrl": "https://discord.gg/dEVRn8QVsb",
+    "token": "OTU1MTMyNzMzMTMzMzIwMTkz.YjdOrQ.QNr180_doCAhdxUm2I5cefxXUOU",
+    "mongoUrl": "mongodb+srv://frankadawd:<frank091011>@cluster0.qj3mh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "prefix": "!",
     "serverID": "949951466074931201",
     "developerIDs": [943151870405410816],
