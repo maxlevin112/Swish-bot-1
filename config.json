@@ -1,0 +1,12 @@
+{
+    "token": "OTQ5OTY1MTIxNzQ3MzA4NTg0.YiSB9g.cP7YooQR_5r5BfFWzhB71OVX5u8",
+    "mongoUrl": "https://discord.gg/dEVRn8QVsb",
+    "prefix": "!",
+    "serverID": "949951466074931201",
+    "developerIDs": [943151870405410816],
+    "cooldownMessages": [],
+    "emojis": {
+        "developers":"alpha",
+        "basic":"👍"
+      }
+}
